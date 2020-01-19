@@ -1,11 +1,11 @@
-# bamazon
+# Bamazonmysql
 
 - - -
 
 ## ABOUT THE APP
-`Bamazon` is a node app that provides customers a choice of products and adjusts inventory based upon the customer choice. 
+`Bamazonmysql` is a node app that provides customers a choice of products and adjusts inventory based upon the customer choice. 
 - - -
-## HOW TO USE BAMAZON
+## HOW TO USE BAMAZONMYSQL
 
 ### **Step by Step instructions**
 
