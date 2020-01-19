@@ -1,0 +1,25 @@
+{
+  "name": "bamazonmysql",
+  "version": "1.0.0",
+  "description": "Buy those cool products you always wanted!",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbriekhof/Bamazonmysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rbriekhof/Bamazonmysql/issues"
+  },
+  "homepage": "https://github.com/Rbriekhof/Bamazonmysql#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
